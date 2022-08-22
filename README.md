@@ -8,7 +8,7 @@ rahIsland (Rashan)
 
 ### Programming Experience
 - B.A & M.Sc In Computer Science
-- 5 Years of Professional Experience in Enterprise Application Development: 
+- 5 Years of Professional Experience in Enterprise Application Development (Specializing in Backend Development): 
     - TechStack: 
         - Backend (Java/SpringBoot)
         - Front-End (Angular, React)
